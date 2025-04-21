@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Crazy Video</title>
+  <meta name="twitter:card" content="player">
+  <meta name="twitter:site" content="@johnwic_mn">
+  <meta name="twitter:title" content="Watch This Crazy Video">
+  <meta name="twitter:description" content="Click to watch, but be ready...">
+  <meta name="twitter:image" content="https://video-redirect-pearl.vercel.app/thumbnail.jpg">
+  <meta name="twitter:player" content="https://video-redirect-pearl.vercel.app/player.html">
+  <meta name="twitter:player:width" content="1280">
+  <meta name="twitter:player:height" content="720">
+</head>
+<body>
+</body>
+</html>
